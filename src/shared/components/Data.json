@@ -1,0 +1,121 @@
+{
+  "attributes": {
+    "namespace": "app.mdl"
+  },
+  "children": [
+    {
+      "attributes": {
+        "name": "Snake_info",
+        "twx-entity-type": "Things",
+        "twx-entity-name": "Snake_info"
+      },
+      "name": "twx-model",
+      "children": [
+        {
+          "attributes": {
+            "name": "Snake_Complete",
+            "twx-auto-refresh": "true",
+            "twx-model": "app.mdl[\"Snake_info\"].properties[\"Snake_Complete\"]"
+          },
+          "name": "twx-model-property"
+        }
+      ]
+    },
+    {
+      "attributes": {
+        "id": "vumark",
+        "isbound": "false",
+        "isdeletable": "false",
+        "name": "ThingMark",
+        "value": ""
+      },
+      "name": "twx-app-param"
+    },
+    {
+      "attributes": {
+        "id": "template",
+        "isbound": "false",
+        "isdeletable": "false",
+        "name": "Thing Template",
+        "value": ""
+      },
+      "name": "twx-app-param"
+    },
+    {
+      "attributes": {
+        "id": "thing",
+        "isbound": "false",
+        "isdeletable": "false",
+        "name": "Thing",
+        "value": ""
+      },
+      "name": "twx-app-param"
+    },
+    {
+      "attributes": {
+        "id": "exhibit_1_complete",
+        "isbound": "false",
+        "isdeletable": "true",
+        "name": "exhibit_1_complete",
+        "value": "1"
+      },
+      "name": "twx-app-param"
+    },
+    {
+      "attributes": {
+        "id": "exhibit_2_complete",
+        "isbound": "false",
+        "isdeletable": "true",
+        "name": "exhibit_2_complete",
+        "value": "1"
+      },
+      "name": "twx-app-param"
+    },
+    {
+      "attributes": {
+        "id": "exhibit_3_complete",
+        "isbound": "false",
+        "isdeletable": "true",
+        "name": "exhibit_3_complete",
+        "value": "1"
+      },
+      "name": "twx-app-param"
+    },
+    {
+      "attributes": {
+        "id": "ry",
+        "isbound": "false",
+        "isdeletable": "true",
+        "name": "ry",
+        "value": ""
+      },
+      "name": "twx-app-param"
+    },
+    {
+      "attributes": {
+        "id": "SnakeComplete",
+        "isbound": "false",
+        "isdeletable": "true",
+        "name": "SnakeComplete",
+        "value": ""
+      },
+      "name": "twx-app-param",
+      "children": [
+        {
+          "attributes": {
+            "databind-id": "db-1528735411289",
+            "source-type": "data",
+            "source-name": "Snake_info",
+            "source-item-type": "property",
+            "source-item-name": "Snake_Complete",
+            "binding-type": "property_field",
+            "from-expression": "app.mdl['Snake_info'].properties['Snake_Complete']",
+            "to-property": "app.params['SnakeComplete']"
+          },
+          "name": "twx-databind"
+        }
+      ]
+    }
+  ],
+  "name": "twx-app-mdl"
+}

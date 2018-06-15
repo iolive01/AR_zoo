@@ -1,0 +1,68 @@
+{
+  "name": "ar_zoo_6_11_18 (4)",
+  "projectType": "AR",
+  "viewType": "ar",
+  "fileName": "ar_zoo_6_11_18__4_",
+  "thingworxServer": "https://upbilpl0.studio-trial.thingworx.io",
+  "version": "1.26.1125",
+  "device": {
+    "name": "phone",
+    "width": "402px",
+    "height": "713px"
+  },
+  "state": {
+    "orientation": "portrait"
+  },
+  "targets": {
+    "phone": {
+      "components": [
+        {
+          "name": "Snake",
+          "fileName": "Snake",
+          "showInMainMenu": true,
+          "viewType": "ar",
+          "title": "Snake"
+        },
+        {
+          "name": "elephant_2",
+          "fileName": "elephant_2",
+          "showInMainMenu": true,
+          "viewType": "ar",
+          "title": "elephant_2"
+        },
+        {
+          "name": "shark",
+          "fileName": "shark",
+          "showInMainMenu": true,
+          "viewType": "ar",
+          "title": "shark"
+        }
+      ],
+      "images": []
+    },
+    "shared": {
+      "components": [
+        {
+          "name": "Data",
+          "fileName": "Data"
+        }
+      ],
+      "images": [],
+      "fragments": [],
+      "styles": [
+        {
+          "name": "App",
+          "fileName": "App",
+          "fileExt": "scss"
+        }
+      ]
+    }
+  },
+  "mainNavigationMenuStyle": "noMenu",
+  "previewUrl": "/preview.html?project=${project}&format=${format}&orientation=${orientation}&phone=true",
+  "resourceDirectory": "src/phone/resources",
+  "resourceRuntimeDir": "app/resources",
+  "fontRuntimeDir": "../fonts",
+  "fontDesigntimeDir": "../dist/phone/fonts",
+  "theme": "twx-light"
+}

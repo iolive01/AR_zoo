@@ -1,0 +1,84 @@
+{
+  "name": "",
+  "version": "1.0.0",
+  "requires": [
+    "w320dp"
+  ],
+  "experiences": [
+    {
+      "vumark": "1128:200",
+      "experienceType": "vumark",
+      "id": 1,
+      "index-keys": [
+        "urn:vuforia:vumark:1128:200"
+      ],
+      "title": {
+        "en": "Snake"
+      },
+      "description": {
+        "en": "",
+        "en-US": ""
+      },
+      "requires": [
+        "AR-tracking"
+      ],
+      "tags": [],
+      "icon": "",
+      "viewName": "Snake",
+      "url-template": "index.html?expId=1#/?thing={{thingworx:thing}}&vumark={{vuforia:vumark}}",
+      "entryPoint": "index.html?expId=1#/",
+      "thumbnail": "",
+      "thingTemplateName": ""
+    },
+    {
+      "vumark": "1128:201",
+      "experienceType": "vumark",
+      "index-keys": [
+        "urn:vuforia:vumark:1128:201"
+      ],
+      "title": {
+        "en": "Elephant"
+      },
+      "description": {
+        "en": "",
+        "en-US": ""
+      },
+      "requires": [
+        "AR-tracking"
+      ],
+      "tags": [],
+      "icon": "",
+      "viewName": "elephant_2",
+      "url-template": "index.html?expId=2#/?thing={{thingworx:thing}}&vumark={{vuforia:vumark}}",
+      "id": 2,
+      "entryPoint": "index.html?expId=2#/",
+      "thumbnail": ""
+    },
+    {
+      "vumark": "1128:202",
+      "experienceType": "vumark",
+      "index-keys": [
+        "urn:vuforia:vumark:1128:202"
+      ],
+      "title": {
+        "en": "Shark"
+      },
+      "description": {
+        "en": "",
+        "en-US": ""
+      },
+      "requires": [
+        "AR-tracking"
+      ],
+      "tags": [],
+      "icon": "",
+      "viewName": "shark",
+      "url-template": "index.html?expId=3#/?thing={{thingworx:thing}}&vumark={{vuforia:vumark}}",
+      "id": 3,
+      "entryPoint": "index.html?expId=3#/",
+      "thumbnail": ""
+    }
+  ],
+  "accessType": "public",
+  "designedfor": []
+}

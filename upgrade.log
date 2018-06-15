@@ -1,0 +1,66 @@
+2018-06-07T12:44:18.770Z - debug: [twx-studio:upgrade:AR_Zoo] Begin upgrade of project AR_Zoo
+2018-06-07T12:44:18.770Z - info: [twx-studio:upgrade:AR_Zoo] Upgrading project AR_Zoo C:\Users\CLab_Station_B\Documents\VuforiaStudio\Projects\AR_Zoo from 1.25.1107 to 8.3.0.3345 (1.26.1125)
+2018-06-07T12:44:18.774Z - debug: [twx-studio:upgrade:AR_Zoo] Make sure there are not any stale files lying around
+2018-06-07T12:44:18.774Z - debug: [twx-studio:upgrade:AR_Zoo] Removing  C:\Users\CLab_Station_B\Documents\VuforiaStudio\Projects\AR_Zoo/src/phone/resources/Default/
+2018-06-07T12:44:18.781Z - debug: [twx-studio:upgrade:AR_Zoo] Create .gitignore for project dir
+2018-06-07T12:44:18.786Z - debug: [twx-studio:upgrade:AR_Zoo] Copying /src/**/* to project, overwrite=false
+2018-06-07T12:44:18.789Z - debug: [twx-studio:upgrade:AR_Zoo] Copying /**/* to project, skip /src/**/*,  overwrite=true
+2018-06-07T12:44:18.845Z - debug: [twx-studio:upgrade:AR_Zoo] Copy of project files complete
+2018-06-07T12:44:18.845Z - debug: [twx-studio:upgrade:AR_Zoo] Updating version to  8.3.0.3345 (1.26.1125)
+2018-06-07T12:44:18.845Z - debug: [twx-studio:upgrade:AR_Zoo] onupgrade sucessful, now build the project
+2018-06-07T12:44:18.845Z - debug: [twx-studio:upgrade:AR_Zoo] BEGIN buildApp AR_Zoo_1528375458845
+2018-06-07T12:44:18.845Z - debug: [twx-studio:upgrade:AR_Zoo] write settings
+2018-06-07T12:44:18.847Z - debug: [twx-studio:upgrade:AR_Zoo] copy runtime extensions
+2018-06-07T12:44:19.019Z - debug: [twx-studio:upgrade:AR_Zoo] packageThemeSet
+2018-06-07T12:44:19.618Z - debug: [twx-studio:upgrade:AR_Zoo] onBuild
+2018-06-07T12:44:19.618Z - info: [twx-studio:upgrade:AR_Zoo] Building ves-ar-extension app: AR_Zoo
+2018-06-07T12:44:19.623Z - debug: [twx-studio:upgrade:AR_Zoo] pathDir C:\Users\CLab_Station_B\Documents\VuforiaStudio\Projects\AR_Zoo
+2018-06-07T12:44:19.623Z - debug: [twx-studio:upgrade:AR_Zoo] scaffoldDir C:\Users\CLab_Station_B\AppData\Roaming\VuforiaStudio\studio-download.vuforia.io\node_modules\ves-ar-extension\src\src-scaffold
+2018-06-07T12:44:19.623Z - debug: [twx-studio:upgrade:AR_Zoo] copySrc
+2018-06-07T12:44:20.520Z - debug: [twx-studio:upgrade:AR_Zoo] buildApp
+2018-06-07T12:44:20.645Z - debug: [twx-studio:upgrade:AR_Zoo] END buildApp AR_Zoo_1528375458845
+2018-06-07T12:44:20.645Z - debug: [twx-studio:upgrade:AR_Zoo] Build succeeded.
+2018-06-11T12:07:52.968Z - debug: [twx-studio:upgrade:ar_zoo_6_11_18] Begin upgrade of project ar_zoo_6_11_18
+2018-06-11T12:07:52.971Z - info: [twx-studio:upgrade:ar_zoo_6_11_18] Upgrading project ar_zoo_6_11_18 C:\Users\nzucker\Documents\VuforiaStudio\Projects\ar_zoo_6_11_18 from 1.26.1125 to 8.3.0.3345 (1.26.1125)
+2018-06-11T12:07:53.081Z - debug: [twx-studio:upgrade:ar_zoo_6_11_18] Make sure there are not any stale files lying around
+2018-06-11T12:07:53.081Z - debug: [twx-studio:upgrade:ar_zoo_6_11_18] Removing  C:\Users\nzucker\Documents\VuforiaStudio\Projects\ar_zoo_6_11_18/src/phone/resources/Default/
+2018-06-11T12:07:53.104Z - debug: [twx-studio:upgrade:ar_zoo_6_11_18] Create .gitignore for project dir
+2018-06-11T12:07:53.109Z - debug: [twx-studio:upgrade:ar_zoo_6_11_18] Copying /src/**/* to project, overwrite=false
+2018-06-11T12:07:53.112Z - debug: [twx-studio:upgrade:ar_zoo_6_11_18] Copying /**/* to project, skip /src/**/*,  overwrite=true
+2018-06-11T12:07:53.258Z - debug: [twx-studio:upgrade:ar_zoo_6_11_18] Copy of project files complete
+2018-06-11T12:07:53.258Z - debug: [twx-studio:upgrade:ar_zoo_6_11_18] Updating version to  8.3.0.3345 (1.26.1125)
+2018-06-11T12:07:53.258Z - debug: [twx-studio:upgrade:ar_zoo_6_11_18] onupgrade sucessful, now build the project
+2018-06-11T12:07:53.259Z - debug: [twx-studio:upgrade:ar_zoo_6_11_18] BEGIN buildApp ar_zoo_6_11_18_1528718873259
+2018-06-11T12:07:53.259Z - debug: [twx-studio:upgrade:ar_zoo_6_11_18] write settings
+2018-06-11T12:07:53.261Z - debug: [twx-studio:upgrade:ar_zoo_6_11_18] copy runtime extensions
+2018-06-11T12:07:54.097Z - debug: [twx-studio:upgrade:ar_zoo_6_11_18] packageThemeSet
+2018-06-11T12:07:55.555Z - debug: [twx-studio:upgrade:ar_zoo_6_11_18] onBuild
+2018-06-11T12:07:55.555Z - info: [twx-studio:upgrade:ar_zoo_6_11_18] Building ves-ar-extension app: ar_zoo_6_11_18
+2018-06-11T12:07:55.587Z - debug: [twx-studio:upgrade:ar_zoo_6_11_18] pathDir C:\Users\nzucker\Documents\VuforiaStudio\Projects\ar_zoo_6_11_18
+2018-06-11T12:07:55.587Z - debug: [twx-studio:upgrade:ar_zoo_6_11_18] scaffoldDir C:\Users\nzucker\AppData\Roaming\VuforiaStudio\studio-download.vuforia.io\node_modules\ves-ar-extension\src\src-scaffold
+2018-06-11T12:07:55.587Z - debug: [twx-studio:upgrade:ar_zoo_6_11_18] copySrc
+2018-06-11T12:07:57.437Z - debug: [twx-studio:upgrade:ar_zoo_6_11_18] buildApp
+2018-06-11T12:07:57.688Z - debug: [twx-studio:upgrade:ar_zoo_6_11_18] END buildApp ar_zoo_6_11_18_1528718873259
+2018-06-11T12:07:57.689Z - debug: [twx-studio:upgrade:ar_zoo_6_11_18] Build succeeded.
+2018-06-14T13:08:07.844Z - debug: [twx-studio:upgrade:ar_zoo_6_11_18__4_] Begin upgrade of project ar_zoo_6_11_18__4_
+2018-06-14T13:08:07.845Z - info: [twx-studio:upgrade:ar_zoo_6_11_18__4_] Upgrading project ar_zoo_6_11_18 (4) C:\Users\ioliver\Documents\VuforiaStudio\Projects\ar_zoo_6_11_18__4_ from 1.26.1125 to 8.3.0.3345 (1.26.1125)
+2018-06-14T13:08:07.980Z - debug: [twx-studio:upgrade:ar_zoo_6_11_18__4_] Make sure there are not any stale files lying around
+2018-06-14T13:08:07.980Z - debug: [twx-studio:upgrade:ar_zoo_6_11_18__4_] Removing  C:\Users\ioliver\Documents\VuforiaStudio\Projects\ar_zoo_6_11_18__4_/src/phone/resources/Default/
+2018-06-14T13:08:07.999Z - debug: [twx-studio:upgrade:ar_zoo_6_11_18__4_] Create .gitignore for project dir
+2018-06-14T13:08:08.004Z - debug: [twx-studio:upgrade:ar_zoo_6_11_18__4_] Copying /src/**/* to project, overwrite=false
+2018-06-14T13:08:08.005Z - debug: [twx-studio:upgrade:ar_zoo_6_11_18__4_] Copying /**/* to project, skip /src/**/*,  overwrite=true
+2018-06-14T13:08:08.224Z - debug: [twx-studio:upgrade:ar_zoo_6_11_18__4_] Copy of project files complete
+2018-06-14T13:08:08.225Z - debug: [twx-studio:upgrade:ar_zoo_6_11_18__4_] Updating version to  8.3.0.3345 (1.26.1125)
+2018-06-14T13:08:08.225Z - debug: [twx-studio:upgrade:ar_zoo_6_11_18__4_] onupgrade sucessful, now build the project
+2018-06-14T13:08:08.225Z - debug: [twx-studio:upgrade:ar_zoo_6_11_18__4_] BEGIN buildApp ar_zoo_6_11_18__4__1528981688225
+2018-06-14T13:08:08.225Z - debug: [twx-studio:upgrade:ar_zoo_6_11_18__4_] write settings
+2018-06-14T13:08:08.227Z - debug: [twx-studio:upgrade:ar_zoo_6_11_18__4_] copy runtime extensions
+2018-06-14T13:08:08.942Z - debug: [twx-studio:upgrade:ar_zoo_6_11_18__4_] packageThemeSet
+2018-06-14T13:08:10.983Z - debug: [twx-studio:upgrade:ar_zoo_6_11_18__4_] onBuild
+2018-06-14T13:08:10.983Z - info: [twx-studio:upgrade:ar_zoo_6_11_18__4_] Building ves-ar-extension app: ar_zoo_6_11_18 (4)
+2018-06-14T13:08:10.994Z - debug: [twx-studio:upgrade:ar_zoo_6_11_18__4_] pathDir C:\Users\ioliver\Documents\VuforiaStudio\Projects\ar_zoo_6_11_18__4_
+2018-06-14T13:08:10.994Z - debug: [twx-studio:upgrade:ar_zoo_6_11_18__4_] scaffoldDir C:\Users\ioliver\AppData\Roaming\VuforiaStudio\studio-download.vuforia.io\node_modules\ves-ar-extension\src\src-scaffold
+2018-06-14T13:08:10.994Z - debug: [twx-studio:upgrade:ar_zoo_6_11_18__4_] copySrc
+2018-06-14T13:08:13.827Z - debug: [twx-studio:upgrade:ar_zoo_6_11_18__4_] buildApp
+2018-06-14T13:08:14.346Z - debug: [twx-studio:upgrade:ar_zoo_6_11_18__4_] END buildApp ar_zoo_6_11_18__4__1528981688225
+2018-06-14T13:08:14.346Z - debug: [twx-studio:upgrade:ar_zoo_6_11_18__4_] Build succeeded.
